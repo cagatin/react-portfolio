@@ -14,4 +14,10 @@
 .github-repo-link,
 .deployed-app-link {
     text-decoration: none;
+    text-align: center !important;
+    font-size: 1.2em;
+}
+
+.project-description {
+    text-align: justify;
 }

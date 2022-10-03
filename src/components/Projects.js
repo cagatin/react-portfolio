@@ -16,8 +16,8 @@ export default function Projects() {
                                 Passport for authentication when using the built-in content management system!
                                 This website was built for our client in order to aid them expand their reach and grow their
                                 online presence!
-                                <br />
-                                <br />
+                            </p>
+                            <p className="project-links">
                                 <a href="https://github.com/cagatin/Fatbird-Project" className="github-repo-link">Visit
                                     the github repository</a>
                                 <br />
@@ -46,8 +46,8 @@ export default function Projects() {
                                 Utilizing multiple Google Maps APIs, our application determines the best route to take to
                                 your destination, and gives you the highest rated attractions
                                 within a five mile vacinity!
-                                <br />
-                                <br />
+                            </p>
+                            <p className="project-links">
                                 <a href="https://github.com/cagatin/Roadtrip_App" className="github-repo-link">Visit
                                     the github repository</a>
                                 <br />
@@ -65,10 +65,11 @@ export default function Projects() {
                                 sector of the electronics industry.
                                 This application is a mock backend for an e-commerce site, utilizing Express.js, Sequelize,
                                 and mySQL!
-                                <br />
-                                <br />
+                            </p>
+                            <p className="project-links">
                                 <a href="https://github.com/cagatin/E-Commerce-Backend" className="github-repo-link">Visit
-                                    the github repository</a>
+                                    the github repository
+                                </a>
                             </p>
                         </div>
                         <div className="project-image-container col-lg-6">
@@ -92,8 +93,8 @@ export default function Projects() {
                                 This databse creates a User schema for users, a Thought schema for posts made by a User, and
                                 a reaction schema as a subdocument to the Thought schema for displaying User reactions to a
                                 Thought!
-                                <br />
-                                <br />
+                            </p>
+                            <p className="project-links">
                                 <a href="https://github.com/cagatin/Social-Network-API" className="github-repo-link">Visit
                                     the github repository</a>
                             </p>
@@ -107,10 +108,11 @@ export default function Projects() {
                             <p className="lead project-description">A command line content management system utilizing Node.js,
                                 Inquirer, Express,
                                 and MYSQL to easily view and interact with company data from a database.
-                                <br />
-                                <br />
+                            </p>
+                            <p className="project-links">
                                 <a href="https://github.com/cagatin/Team-Profile-Generator" className="github-repo-link">Visit
-                                    the github repository</a>
+                                    the github repository
+                                </a>
                             </p>
                         </div>
                         <div className="project-image-container col-lg-6">
