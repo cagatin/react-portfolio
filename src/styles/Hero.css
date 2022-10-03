@@ -9,7 +9,7 @@
 #hero-container-section::before {
     content: "";
     position: absolute;
-    background-image: url("../../public/images/smiling2.png");
+    background-image: url("../../src/images/smiling2.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
