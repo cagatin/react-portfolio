@@ -4,9 +4,9 @@ import '../styles/Contact.css';
 
 export default function Contact() {
     return (
-        <section id="home-contact-section" className="reveal main-section">
+        <section id="home-contact-section" className="main-section">
             <h2 className="pt-5 text-center section-title" id="contact-title">Contact</h2>
-            <section id="socials" className="text-centet pb-5">
+            <section id="socials" className="text-centet pb-5 reveal">
                 <div id="socials-container" className="d-flex justify-content-center align-items-center">
                     <a href="https://www.linkedin.com/in/gilbertcagatin/">
                         <img src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt=""
@@ -26,7 +26,7 @@ export default function Contact() {
                     </a>
                 </div>
             </section>
-            <section id="email-section" className="pb-5">
+            <section id="email-section" className="pb-5 reveal">
                 <h3>Email Me!</h3>
                 <form id="contact-form">
                     <div className="form-group">

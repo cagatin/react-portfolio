@@ -5,12 +5,12 @@ import '../styles/About.css';
 export default function About() {
     return (
         <section id="home-about-section"
-            class="main-section reveal  d-flex flex-column justify-content-center align-items-center">
+            class="main-section  d-flex flex-column justify-content-center align-items-center">
             <div class="container">
                 <h2 class="pt-5 text-center section-title" id="about-title">About Me</h2>
                 <div id="about-me-container">
                     <div id="about-text-container">
-                        <p class="about-text">
+                        <p class="about-text reveal">
                             Nice to meet you! 👋🏽 <br />
                             <br />
                             My name is <strong>Felix Gilbert Cagatin.</strong>

@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function Skills() {
     return (
-        <section id="home-skills-section" class="reveal main-section">
+        <section id="home-skills-section" class="main-section">
             <div class="container">
                 <h2 class="pt-5 text-center section-title" id="skills-title">technologies</h2>
                 <div id="skills-icon-wrapper" class="d-flex flex-column">
