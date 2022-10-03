@@ -7,6 +7,10 @@
     color: #000;
 }
 
+.project-title {
+    font-weight: bold;
+}
+
 .github-repo-link,
 .deployed-app-link {
     text-decoration: none;
