@@ -1,0 +1,58 @@
+/* Hero Section Styling */
+#hero-container-section {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#hero-container-section::before {
+    content: "";
+    position: absolute;
+    background-image: url("../../public/images/smiling2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center 35%;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.75;
+}
+
+.typewriter h1 {
+    padding-bottom: 1%;
+    position: relative;
+    color: black;
+    text-align: center;
+    overflow: hidden;
+    border-right: .1em solid black;
+    font-weight: bolder;
+    white-space: nowrap;
+    font-size: 6rem;
+    width: 0;
+    animation:
+        typing 2.5s steps(40) forwards,
+        blink 1.2s infinite;
+}
+
+@keyframes typing {
+    from {
+        width: 0
+    }
+
+    to {
+        width: 100%
+    }
+}
+
+@keyframes blink {
+    from {
+        border-color: transparent
+    }
+
+    to {
+        border-color: black;
+    }
+}
