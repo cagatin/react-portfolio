@@ -1,0 +1,14 @@
+/* Navbar styles */
+.navbar {
+    background-color: #000;
+}
+
+.navbar-toggler {
+    background-color: white !important;
+}
+
+.nav-link {
+    color: white !important;
+    font-weight: bolder !important;
+    font-size: 130%;
+}
