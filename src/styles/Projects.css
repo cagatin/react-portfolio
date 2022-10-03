@@ -6,3 +6,8 @@
 #projects-title {
     color: #000;
 }
+
+.github-repo-link,
+.deployed-app-link {
+    text-decoration: none;
+}
