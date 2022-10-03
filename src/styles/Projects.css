@@ -1,0 +1,8 @@
+/* Project Section Styling */
+#home-projects-section {
+    background-color: var(--switch2-theme);
+}
+
+#projects-title {
+    color: #000;
+}
