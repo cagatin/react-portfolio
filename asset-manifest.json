@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.964167d6.css",
-    "main.js": "/react-portfolio/static/js/main.0ab1876f.js",
+    "main.css": "/react-portfolio/static/css/main.786f541e.css",
+    "main.js": "/react-portfolio/static/js/main.e5206e9d.js",
+    "static/media/roadtrip.gif": "/react-portfolio/static/media/roadtrip.f63a83fa24f1a7cc7ca2.gif",
+    "static/media/fatbirds.gif": "/react-portfolio/static/media/fatbirds.e14529156d26a83cba4d.gif",
+    "static/media/smiling2.png": "/react-portfolio/static/media/smiling2.d54b93e5b51414be8462.png",
+    "static/media/ecommerce.gif": "/react-portfolio/static/media/ecommerce.47c98de3a0634094fc1e.gif",
+    "static/media/socialnetwork.gif": "/react-portfolio/static/media/socialnetwork.9938c2f59f570a83d8b5.gif",
+    "static/media/employee.gif": "/react-portfolio/static/media/employee.df23c24501eb18438ba3.gif",
     "index.html": "/react-portfolio/index.html",
-    "main.964167d6.css.map": "/react-portfolio/static/css/main.964167d6.css.map",
-    "main.0ab1876f.js.map": "/react-portfolio/static/js/main.0ab1876f.js.map"
+    "main.786f541e.css.map": "/react-portfolio/static/css/main.786f541e.css.map",
+    "main.e5206e9d.js.map": "/react-portfolio/static/js/main.e5206e9d.js.map"
   },
   "entrypoints": [
-    "static/css/main.964167d6.css",
-    "static/js/main.0ab1876f.js"
+    "static/css/main.786f541e.css",
+    "static/js/main.e5206e9d.js"
   ]
 }
