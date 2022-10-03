@@ -3,7 +3,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import '../styles/Projects.css';
 
 export default function Projects() {
-
     return (
         <section id="home-projects-section" className="reveal main-section">
             <div className="container">

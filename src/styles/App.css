@@ -20,6 +20,19 @@ body {
     margin-bottom: 4%;
 }
 
+/* Styles to control reveal on scroll */
+.reveal {
+    position: relative;
+    transform: translateY(200px);
+    opacity: 0;
+    transition: all 1.8s ease;
+}
+
+.reveal.active {
+    transform: translateY(0px);
+    opacity: 1;
+}
+
 @media screen and (min-width: 200px) and (max-width: 600px) {
     #desktop-title {
         display: none;
