@@ -19,3 +19,61 @@ body {
     text-transform: uppercase;
     margin-bottom: 4%;
 }
+
+@media screen and (min-width: 200px) and (max-width: 600px) {
+    #desktop-title {
+        display: none;
+    }
+
+    .section-title {
+        font-size: 2em;
+    }
+
+    .typewriter h1 {
+        font-size: 2.3em;
+    }
+
+    .about-text {
+        font-size: 1.2em;
+        line-height: 1.7;
+    }
+
+    .skill-section-title {
+        font-size: 1.8em;
+    }
+
+    .skills-icons img {
+        height: 40px;
+        width: 40px;
+        margin-bottom: 2%;
+    }
+
+    #skills-icon-wrapper {
+        display: grid !important;
+        grid-template-columns: 1fr !important;
+        gap: 20% !important;
+    }
+
+
+    #hero-container-section::before {
+        background-attachment: scroll;
+        opacity: 1;
+    }
+
+    .reveal {
+        transition: all 1.2s ease;
+    }
+
+    #email-section {
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+}
+
+@media screen and (min-width: 600px) and (max-width: 1000px) {
+
+    .typewriter h1,
+    .section-title {
+        font-size: 3rem;
+    }
+}
