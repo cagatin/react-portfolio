@@ -28,7 +28,23 @@ export default function Contact() {
                 </div>
             </section>
             <section id="email-section" className="pb-5">
-                <h3>Email Me!</h3>
+                <p class="about-text" id="roles-text">
+                    As I complete my certifcate at UC Riversides' Coding Bootcamp, I am seeking
+                    opporunities
+                    in the following roles:
+                    <br />
+                    <br />
+                    <span class="role-span">Full Stack Software Development</span>
+                    <br />
+                    <span class="role-span">Front End Development</span>
+                    <br />
+                    <span class="role-span">Back End Software Development</span>
+                    <br />
+                    <span class="role-span">Junior Software Engineer</span>
+                    <br />
+                    <br />
+                    If you would like to chat, please email me at: <span class="role-span">cagatingilbert@gmail.com</span>
+                </p>
                 <EmailForm />
             </section>
         </section>
