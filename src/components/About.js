@@ -19,10 +19,10 @@ export default function About() {
                             After graduating from the <strong>University of California, San Diego</strong> , I fell in love with programming
                             and
                             harnessed my interest for technology
-                            to pursuit a career in technology!
+                            to pursue a career in technology!
                             <br />
                             <br />
-                            A Self taught programmer turned <strong> UC Riverside Bootcamp</strong> graduate, I love to create
+                            A self-taught programmer turned <strong> UC Riverside Bootcamp</strong> graduate, I love to create
                             <strong> responsive</strong>, <strong>user
                                 friendly</strong> applications that utilize my <strong>problem solving</strong> skills!
                         </p>
