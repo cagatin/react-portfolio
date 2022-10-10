@@ -24,7 +24,7 @@ export default function NavBar() {
                         <a href="#home-contact-section" className="nav-link px-4 text-center">Contact</a>
                     </li>
                     <li className="nav-item">
-                        <a href="/assets/FelixCagatinResume.pdf" className="nav-link px-4 text-center">Resume</a>
+                        <a href="/assets/fcresume.pdf" className="nav-link px-4 text-center">Resume</a>
                     </li>
                 </ul>
             </div>
